@@ -5,9 +5,9 @@ This repository contains a Python function for calculating bond duration and mod
 The user can input various parameters of the bond, such as its face value, coupon rate, time to maturity, and yield-to-maturity, and the function will calculate the bond's duration and modified duration.
 
 Features
-  Calculates bond duration and modified duration
-  User can choose between annual and semi-annual coupon payments
-  Provides clear output of results
+   Calculates bond duration and modified duration
+   User can choose between annual and semi-annual coupon payments
+   Provides clear output of results
   
 Getting Started
 Prerequisites
