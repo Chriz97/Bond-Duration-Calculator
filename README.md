@@ -13,7 +13,7 @@ The user can input various parameters of the bond, such as its face value, coupo
 - Python 3.x
 
 ### License
-- This project is licensed under the MIT License - see the LICENSE.md file for details.
+- This project is licensed under the MIT License.
 
 ### Acknowledgments
 This project was inspired by the concept of bond duration and modified duration, and was created as part of a programming challenge to improve my Python skills. Thanks to the many resources available online for learning about bond investing and financial mathematics.
