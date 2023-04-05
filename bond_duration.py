@@ -40,7 +40,7 @@ frequency = 2  # 2 for semi-annual coupon payments, 1 for annual coupon payments
 mac_duration, mod_duration = (bond_duration(face_value, coupon_rate, time_to_maturity, yield_rate, frequency))
 
 print("Macaulay Duration: {:.3f} years".format(mac_duration))
-print("Modified Duration: {:.3f} years".format(mod_duration))
+print("Modified Duration: {:.3f}".format(mod_duration))
 
 
 
